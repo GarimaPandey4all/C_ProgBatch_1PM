@@ -1,0 +1,5 @@
+Switch_with_Exit: For All Operators
+Functions: 4 types: for different questions
+Fibonacci Series: Palindrome: Factorial: Reverse Number
+Array and Loops
+Command line arguments
