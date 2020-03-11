@@ -1,0 +1,36 @@
+			   
+			   n
+			   5
+			   *
+			  ***
+			 *****
+			*******
+		   *********
+		   
+		   i= 5
+		   j= 2n-1= 2 * 5 -1=9
+		   
+		   
+		   int a; //normal variable//store value
+		   
+		   indirection way//int *a; //pointer variable //address store
+		   
+		   address-->value
+		   
+		   int *a;
+		   int b=99;
+		   a = &b;
+		   
+		   printf("The value of a:%d", *a);
+		   
+		   int *p, b;
+		   
+		   
+		   int a = 10;
+		   int *pointer=&a;
+		   
+		   printf(pointer); //address
+		   printf(*pointer); //value
+		   
+		   
+		   
