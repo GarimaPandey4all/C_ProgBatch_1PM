@@ -1,0 +1,7 @@
+const int value = 10; //constant normal variable
+
+int *const pvalue = NULL; 
+//Address can't be Changed
+
+const int *const pvalue = NULL; 
+//Both can't be changed
